@@ -39,7 +39,7 @@
     </h2>
     <p>In case you have any doubt or you are interested about my work, you can contact me here: </p>
     <ul>
-        <li>Mi linkedin: <a href="https://www.linkedin.com/in/pedro-tobarra-leal/"><img src="images/linkedin.png" alt="linkedin" width="20"></a></li>
-        <li>Mi correo: <a href="mailto:pedro.tobarra.leal@gmail.com">Pedro.tobarra.leal@gmail.com</a></li>
+        <li>My linkedin: <a href="https://www.linkedin.com/in/pedro-tobarra-leal/"><img src="images/linkedin.png" alt="linkedin" width="20"></a></li>
+        <li>My email: <a href="mailto:pedro.tobarra.leal@gmail.com">Pedro.tobarra.leal@gmail.com</a></li>
     </ul>
 </section>
