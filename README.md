@@ -9,12 +9,13 @@
 
 <section>
 
-    <h2>How it works 🔧</h2>
+<h2>How it works 🔧</h2>
 
-    <p>In this section I will show you how this simple calculator program works:</p>
-    <ol>
-        <li>Use <code>git clone</code> to clone the repository and execute the <code>Calculator.py</code> file (or just download this sigle file, it's the only one needed). After that, you will have something like this: <br><br>
-        <img src="images/Calculator_GUI.png" alt="Calculator GUI" style="display:block; margin-left: auto; margin-right: auto; width: 350px;">
+<p>In this section I will show you how this simple calculator program works:</p>
+<ol>
+    <li>Use <code>git clone</code> to clone the repository and execute the <code>Calculator.py</code> file (or just download this sigle file, it's the only one needed). After that, you will have something like this: 
+        <br><br>
+        <img src="images/Calculator_GUI.png" alt="Calculator GUI" width="350"">
         <br><br>
         </li>
         <li>Introduce a number and after that, press any operation symbol. Pressing an operations symbol should store the number in the <code>result</code> variable and reset the screen value to 0.
@@ -30,7 +31,6 @@
         </li>
         <li>And that's all, you should be able to work perfectly with this calculator to perform easy math 😉.<br><br></li>
     </ol>
-
 </section>
 
 <section>
